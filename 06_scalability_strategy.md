@@ -1,0 +1,1 @@
+# EventIQ - Scalability Strategy
