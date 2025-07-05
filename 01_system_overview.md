@@ -48,7 +48,7 @@ The result: better-informed decisions, improved product flows, and increased rev
 ### User Management
 
 1. **User Registration**  
-   Users can register using:
+   UsersPage can register using:
     - A valid company email and password.
     - Social logins (Google, GitHub).
 
@@ -65,7 +65,7 @@ The result: better-informed decisions, improved product flows, and increased rev
 ### Event Management
 
 1. **Multi-Project Support**  
-   Users can create and manage multiple projects (websites/apps), each associated with a unique `iq_project_key` (public SDK key).
+   UsersPage can create and manage multiple projects (websites/apps), each associated with a unique `iq_project_key` (public SDK key).
 
 2. **Public SDK Key Design**
     - `iq_project_key` is used by the client SDK to send events.
@@ -86,7 +86,7 @@ The result: better-informed decisions, improved product flows, and increased rev
     - Referrer and page URL
 
 2. **Custom Event Actions**  
-   Users can define high-level action IDs for common events:
+   UsersPage can define high-level action IDs for common events:
     - e.g., `LOGIN`, `REGISTER`, `PAYMENT`, `PAYMENT_CANCELLED`
 
 3. **Engagement Metrics**
@@ -104,7 +104,7 @@ The result: better-informed decisions, improved product flows, and increased rev
 
 6. **Real-Time Dashboard**
     - **Live Event Feed**: Stream of incoming events
-    - **Online Users**: Active users in last 5 minutes
+    - **Online UsersPage**: Active users in last 5 minutes
     - **Top Live Events**: Most frequent current events
     - **System Health Panel**: Latency, ingestion QPS, failures
 
