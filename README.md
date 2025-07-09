@@ -1,11 +1,11 @@
 # Scalable System Architecture - EventIQ
 EventIQ is a developer-first platform for tracking user behavior, product flows, and system events across large-scale web applications. It provides a lightweight SDK and event gateway backend that captures, processes, and visualizes user interaction data in real time. The goal is to help product teams and engineers understand how users navigate flows, where they drop off, and how features perform—with minimal instrumentation.
 
-## Documentation Overview
+## Documentation OverviewPage
 
 All detailed architecture documents are located in the repository:
 
-- **[System Overview](01_system_overview.md)**
+- **[System OverviewPage](01_system_overview.md)**
 - **[Architecture Diagram](02_architecture.md)**
 - **[Component Design](03_component_design.md)**
 - **[Data Flow](04_data_flow.md)**
